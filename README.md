@@ -10,3 +10,8 @@ Users are able to read text about the places they can visit in that area.
 Users are able to see pictures about places in nearby areas. 
 Users are able to see guidance-related details requested by the users so that they can explore tourist destinations better.
 Users are able to Find Location, Locate in Map, Weather Forecast, and Calculate Distance between two Cities.
+
+Every requirement was fulfilled expect Weather Forecast and Calculate Distance between twi cities.
+
+Link to youtube video: https://youtu.be/O08GjJXkh0g
+The application is developped by me.
