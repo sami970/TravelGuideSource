@@ -1,3 +1,5 @@
+Android Application Coded in Java
+
 The main objective of this Android project is to provide rich and relevant travel-related information to users on the move.
 The idea is to create a smart travel guide app that users can access anytime and from anywhere.
 Since the proposed app is based on request and response, it does not require the continual acquisition of bandwidth.
