@@ -14,6 +14,3 @@ Users are able to see guidance-related details requested by the users so that th
 Users are able to Find Location, Locate in Map, Weather Forecast, and Calculate Distance between two Cities.
 
 Every requirement was fulfilled expect Weather Forecast and Calculate Distance between two cities.
-
-Link to youtube video: https://youtu.be/O08GjJXkh0g
-The application is developped by me.
